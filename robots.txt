@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://mahipymube.github.io/woozy/sitemap.xml
